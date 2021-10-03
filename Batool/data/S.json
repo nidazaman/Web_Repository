@@ -1,0 +1,83 @@
+{"S1":{
+    "code": "SKU 123",
+    "short_name": "S1",
+    "name": "Top Bottoms",
+    "price": 2000,
+    "aval": "In Stock",
+    "color": "black",
+    "fabric": "Lawan",
+    "size": 2,
+    "type": "Shirt",
+    "imgUrl": "Images/designs/S/S1",
+    "des": [
+      "Lawn Printed Front",
+      "Lawn Printed Back",
+      "Printed Bazu",
+      "Hamp Border",
+      "Daman"
+    ],
+    "length": [2.5, 2.5, 2, 1, 1.5]
+  },
+"S2":{
+    "code": "SKU 124",
+    "short_name": "S2",
+    "name": "Long Shirt",
+    "price": 2001,
+    "aval": "In Stock",
+    "color": "Light Brown",
+    "fabric": "Lawan",
+    "size": 3,
+    "type": "Long Shirt",
+    "imgUrl": "Images/designs/S/S2",
+    "des": [
+      "Lawn Printed Front",
+      "Lawn Printed Back",
+      "Printed Bazu",
+      "Hamp Border",
+      "Daman"
+    ],
+    "length": [2.5, 2.5, 2, 1, 1.5]
+  },
+"S3":{
+    "code": "SKU 125",
+    "short_name": "S3",
+    "name": "Long Shirt",
+    "price": 2002,
+    "aval": "In Stock",
+    "color": "Skin",
+    "fabric": "Lawan",
+    "size": 2,
+    "type": "c Shirt",
+    "imgUrl": "Images/designs/S/S3",
+    "des": [
+      "Lawn Printed Front",
+      "Lawn Printed Back",
+      "Printed Bazu",
+      "Hamp Border",
+      "Daman"
+    ],
+    "length": [2.5, 2.5, 2, 1, 1.5]
+  },
+"S4":{
+    "code": "SKU 126",
+    "short_name": "S4",
+    "name": "Maxi Designs",
+    "price": 2003,
+    "aval": "In Stock",
+    "color": "Multi-colored",
+    "fabric": "Lawan",
+    "size": 2,
+    "type": "Maxi-Style",
+    "imgUrl": "Images/designs/S/S4",
+    "des": [
+      "Lawn Printed Front",
+      "Lawn Printed Back",
+      "Printed Bazu",
+      "Hamp Border",
+      "Daman"
+    ],
+    "length": [2.5, 2.5, 2, 1, 1.5]
+  }}
+
+ 
+

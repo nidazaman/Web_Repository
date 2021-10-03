@@ -1,0 +1,80 @@
+{"L1":{
+    "code": "SKU 131",
+    "short_name": "L1",
+    "name": "Embroided Frock Design'",
+    "price": 2008,
+    "aval": "In Stock",
+    "color": "Brown",
+    "fabric": "Lawan",
+    "size": 3,
+    "type": "Frock Design",
+    "imgUrl": "Images/designs/L/L1",
+    "des": [
+      "Lawn Printed Front",
+      "Lawn Printed Back",
+      "Printed Bazu",
+      "Hamp Border",
+      "Daman"
+    ],
+    "length": [2.5, 2.5, 2, 1, 1.5]
+  },
+"L2":{
+    "code": "SKU 132",
+    "short_name": "L2",
+    "name": "Kurta",
+    "price": 2009,
+    "aval": "In Stock",
+    "color": "Greyish",
+    "fabric": "Lawan",
+    "size": 3,
+    "type": "Trouser Shirt",
+    "imgUrl": "Images/designs/L/L2",
+    "des": [
+      "Lawn Printed Front",
+      "Lawn Printed Back",
+      "Printed Bazu",
+      "Hamp Border",
+      "Daman"
+    ],
+    "length": [2.5, 2.5, 2, 1, 1.5]
+  },
+"L3":{
+    "code": "SKU 133",
+    "short_name": "L3",
+    "name": "Long-shirts Desi Styles",
+    "price": 2010,
+    "aval": "In Stock",
+    "color": "Golden",
+    "fabric": "Lawan",
+    "size": 3,
+    "type": "Long Shirt and Plazo",
+    "imgUrl": "Images/designs/L/L3",
+    "des": [
+      "Lawn Printed Front",
+      "Lawn Printed Back",
+      "Printed Bazu",
+      "Hamp Border",
+      "Daman"
+    ],
+    "length": [2.5, 2.5, 2, 1, 1.5]
+  },
+"L4":{
+    "code": "SKU 134",
+    "short_name": "L4",
+    "name": "Long-shirts Desi Styles",
+    "price": 2011,
+    "aval": "In Stock",
+    "color": "Purple",
+    "fabric": "Lawan",
+    "size": 3,
+    "type": "Long Shirt and Plazo",
+    "imgUrl": "Images/designs/L/L4",
+    "des": [
+      "Lawn Printed Front",
+      "Lawn Printed Back",
+      "Printed Bazu",
+      "Hamp Border",
+      "Daman"
+    ],
+    "length": [2.5, 2.5, 2, 1, 1.5]
+  }}

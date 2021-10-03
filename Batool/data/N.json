@@ -1,0 +1,80 @@
+{"N1":{
+    "code": "SKU 127",
+    "short_name": "N1",
+    "name": "Top Bottoms",
+    "price": 2004,
+    "aval": "In Stock",
+    "color": "Creamy shade",
+    "fabric": "Lawan",
+    "size": 2,
+    "type": "Long Shirt",
+    "imgUrl": "Images/designs/N/N1",
+    "des": [
+      "Lawn Printed Front",
+      "Lawn Printed Back",
+      "Printed Bazu",
+      "Hamp Border",
+      "Daman"
+    ],
+    "length": [2.5, 2.5, 2, 1, 1.5]
+  },
+"N2":{
+    "code": "SKU 128",
+    "short_name": "N2",
+    "name": "Party Wears",
+    "price": 2005,
+    "aval": "In Stock",
+    "color": "Brown",
+    "fabric": "Lawan",
+    "size": 3,
+    "type": "Long Shirt",
+    "imgUrl": "Images/designs/N/N2",
+    "des": [
+      "Lawn Printed Front",
+      "Lawn Printed Back",
+      "Printed Bazu",
+      "Hamp Border",
+      "Daman"
+    ],
+    "length": [2.5, 2.5, 2, 1, 1.5]
+  },
+"N3":{
+    "code": "SKU 129",
+    "short_name": "N3",
+    "name": "Traditionals",
+    "price": 2006,
+    "aval": "In Stock",
+    "color": "Orange",
+    "fabric": "Lawan",
+    "size": 3,
+    "type": "Long Shirt",
+    "imgUrl": "Images/designs/N/N3",
+    "des": [
+      "Lawn Printed Front",
+      "Lawn Printed Back",
+      "Printed Bazu",
+      "Hamp Border",
+      "Daman"
+    ],
+    "length": [2.5, 2.5, 2, 1, 1.5]
+  },
+"N4":{
+    "code": "SKU 130",
+    "short_name": "N4",
+    "name": "Kurta Designs",
+    "price": 2007,
+    "aval": "In Stock",
+    "color": "Brown",
+    "fabric": "Lawan",
+    "size": 3,
+    "type": "Trouser Shirt",
+    "imgUrl": "Images/designs/N/N4",
+    "des": [
+      "Lawn Printed Front",
+      "Lawn Printed Back",
+      "Printed Bazu",
+      "Hamp Border",
+      "Daman"
+    ],
+    "length": [2.5, 2.5, 2, 1, 1.5]
+  }}
